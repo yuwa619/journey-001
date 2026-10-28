@@ -1,0 +1,9 @@
+refund_id,order_id,refund_date,amount,reason
+R011,O011,2026-01-28,10.00,practice return
+R022,O022,2026-02-19,10.00,practice return
+R033,O033,2026-03-13,10.00,practice return
+R044,O044,2026-04-04,10.00,practice return
+R055,O055,2026-01-26,10.00,practice return
+R066,O066,2026-02-17,10.00,practice return
+R077,O077,2026-03-11,10.00,practice return
+R088,O088,2026-04-02,10.00,practice return

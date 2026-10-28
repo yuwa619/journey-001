@@ -1,0 +1,4 @@
+order_id,customer_id,order_date,channel,status,updated_at
+O001,C002,2026-01-03,store,cancelled,2026-04-03T08:00:00Z
+O091,C003,2026-01-12,web,completed,2026-04-03T09:00:00Z
+O009,C010,2026-01-19,web,completed,2026-01-19T12:00:00Z
