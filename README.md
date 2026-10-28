@@ -13,7 +13,7 @@ From the project root, ensure `customers.csv` is in the `data/` directory. Creat
 
 ```sql
 CREATE TABLE customers AS
-SELECT * FROM read_csv_auto('/Users/Yuwa/Projects/Analytic engineer/Project 1/Data/customers.csv');
+SELECT * FROM read_csv_auto('data/customers.csv');
 
 SELECT COUNT(*) AS customer_count FROM customers;
 
